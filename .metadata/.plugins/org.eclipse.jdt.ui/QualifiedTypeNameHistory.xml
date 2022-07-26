@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.jms.TopicConnection"/>
+    <fullyQualifiedTypeName name="javax.jms.TopicSession"/>
+    <fullyQualifiedTypeName name="javax.jms.TopicPublisher"/>
+    <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+    <fullyQualifiedTypeName name="javax.jms.TopicConnectionFactory"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.event.model.Event"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.event.model.AlarmingObjectLiteEvent"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.model.AlarmingObjectLite"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.event.model.AlarmingObjectLiteInfo"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.model.AlarmingObjectLiteImpl"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.model.metadata.ObjectClassDefKey"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.model.AlarmingObjectBasicImpl"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.model.metadata.AdaptationDefKey"/>
+    <fullyQualifiedTypeName name="com.nsn.oss.fm.ejb.data.JMSNotificationProperties"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+</qualifiedTypeNameHistroy>

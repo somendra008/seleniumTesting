@@ -1,0 +1,10 @@
+package sample;
+
+public class Seven {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\kesari\\Downloads\\chromedriver_win32\\chromedriver.exe")
+		
+	}
+}

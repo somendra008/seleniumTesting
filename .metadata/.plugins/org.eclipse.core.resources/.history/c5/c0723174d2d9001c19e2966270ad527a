@@ -1,0 +1,12 @@
+package sample;
+
+public class Five {
+
+	public static void main(String[] args) {
+		
+		
+		System.setProperty("webdriver.edge.driver", "C:\\Users\\kesari\\Downloads\\edgedriver_win64\\")
+
+	}
+
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/TestClient/src/SIBusSender.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="SIBusSender"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="TestClient"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="topic://MOFDMONotificationTopic FMSIBUS clab1217node15:7283:BootstrapSecureMessaging InboundSecureMessaging"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestClient"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dcom.ibm.CORBA.ConfigURL=file://C:/Users/kesari/Desktop/Seetharaman/sas.client.props"/>
+</launchConfiguration>

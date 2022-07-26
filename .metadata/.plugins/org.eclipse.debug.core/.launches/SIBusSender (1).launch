@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/TestClient/src/SIBusSender.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="SIBusSender"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="TestClient"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="topic://MOFDMONotificationTopic?deliveryMode=NonPersistent&amp;busName=FMSIBUS&amp;priority=0 FMSIBUS clab1167node18:7283:BootstrapSecureMessaging InboundSecureMessaging"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestClient"/>
+</launchConfiguration>

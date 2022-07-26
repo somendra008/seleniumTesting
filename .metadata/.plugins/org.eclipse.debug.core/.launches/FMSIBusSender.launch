@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/TestClient/src/FMSIBusSender.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="FMSIBusSender"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="TestClient"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="topic://MOFDMONotificationTopic FMSIBUS clab1217node15:7283:BootstrapSecureMessaging InboundSecureMessaging"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestClient"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dcom.ibm.CORBA.ConfigURL=file:///C:/Users/kesari/eclipse-workspace2/TestClient/src/sas.client.props"/>
+</launchConfiguration>
